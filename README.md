@@ -1,3 +1,13 @@
+## Esta aplicação foi criada para servir de base para novas aplicações utilizando os mesmos recursos:
+- **[Composer version 2.5.7 2023-05-24 15:00:39](https://getcomposer.org//)**
+- **[Laravel 10](https://laravel.com//)**
+- **[git version 2.45.1.windows.1](https://github.com//)**
+- **[Vite](https://vitejs.dev//)**
+- **[Tailwind](https://tailwindcss.com/docs/installation/)**
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
