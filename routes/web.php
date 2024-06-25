@@ -3,6 +3,16 @@
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 
+
+/*
+|----------------------------------------------------------------------------------
+| Custom ROutes
+|----------------------------------------------------------------------------------
+*/
+Route::get('endereco', function () { 
+    return view('endereco');
+});
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
