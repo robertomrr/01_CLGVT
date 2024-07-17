@@ -49,7 +49,14 @@
         </style>
     </head>
 <body>
-
+    <h1 class="text-center text-2xl font-bold">Exemplo de Modal</h1>
+    <!-- Pin to top right corner -->
+    <div class="container mx-auto relative h-16 w-11/12 ... bg-blue-300">
+        <div class="relative top-0 right-0 p-3">
+            <a href="{{ route('dashboard') }}"><button  class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" type="submit">Voltar para o dasboard</button></a>  
+        </div>
+    </div>
+    <br>
     <!-- Botão para abrir a modal -->
     <button id="openModalBtn" 
             class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded inline-flex items-center">
