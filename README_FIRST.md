@@ -51,10 +51,10 @@
     > cd 01_CLGVT
     > git init
     > git add .
-    > git commit -m "First commit" 
-
-    Observação: Para que você registre o que foi incluido e/ou alterado durante uma instalação, você pode gravar o resultado após 
-                cada instalatção utilizando o git add . e o git commit -m "ComandoExecutdado" 
+    > git commit -m "First commit"
+<span style="color:red;font-weight:400">Observação:</span>
+    Para que você registre o que foi incluido e/ou alterado durante uma instalação, você pode gravar o resultado após 
+    cada instalação utilizando o <span style="color:green;font-weight:400">git add .</span> e o <span style="color:green;font-weight:400">git commit -m "ComandoExecutdado"</span> 
 
     > npm install
     > git add .
@@ -95,7 +95,7 @@
         > git add .
         > git commit -m "npx tailwindcss init -p" 
 
-### > code .
+### > code
 
 #### Configurar idioma
 
